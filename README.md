@@ -19,6 +19,7 @@ Se requiere un sistema en consola que permita administrar los tipos y la cantida
 
 ```text
 PP2_GesionHotelera/
+  info.txt
   README.md
   programa/
     Main.hs
