@@ -1,0 +1,9 @@
+Abrir una terminal en esta carpeta (programa).
+1) Verificar GHC: ghc --version
+2) Ejecutar directamente: runghc Main.hs
+3) O compilar: ghc Main.hs -o hotel
+4) Linux: ./hotel ; Windows PowerShell: .\hotel.exe
+5) Menu administrativo: cargar datos/tipos.csv
+6) Asignar cantidades y luego cargar datos/tarifas.csv
+7) Menu general: reservar, anular o facturar.
+Consultar documentacion/README.md para todos los detalles.
