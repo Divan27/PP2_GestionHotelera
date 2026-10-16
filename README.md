@@ -18,8 +18,7 @@ Se requiere un sistema en consola que permita administrar los tipos y la cantida
 ## 3. Estructura de los archivos
 
 ```text
-PP2_Hotel/
-  info.txt
+PP2_GesionHotelera/
   README.md
   programa/
     Main.hs
