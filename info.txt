@@ -1,0 +1,7 @@
+Curso: Lenguajes de Programacion, Grupo 60
+Semestre: II semestre, 2026
+Estudiantes: Dilan Zamora-2019167464, Daryll Martinez-2019271231, Ian Samuels
+Proyecto: Proyecto Programado #2
+Fecha de entrega: 15/10/2026
+Estatus: Buena
+Repositorio GitHub: https://github.com/Divan27/PP2_GestionHotelera.git
