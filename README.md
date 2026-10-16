@@ -151,9 +151,8 @@ Para una reserva: `menuGeneral` -> `reservar` -> `pedirOcupaciones` -> `estaDisp
 
 ## 9. Pruebas de funcionalidad
 
-Consultar `Pruebas_Manual.md` para casos y resultados esperados. **Capturas reales pendientes:** ejecutar el programa en su computadora, comprobar cada escenario, insertar screenshots en el documento de entrega y anotar el resultado real. No se adjuntan pantallazos fabricados.
 
-## 10. Analisis de resultados (estado preliminar)
+## 10. Analisis de resultados
 
 **Implementado en codigo:** menus, carga desde archivos, asignacion unica, consultas, reserva, anulacion, factura, estadisticas y validaciones esenciales.
 
