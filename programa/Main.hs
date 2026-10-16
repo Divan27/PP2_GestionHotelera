@@ -194,7 +194,7 @@ cruzan inicio1 fin1 inicio2 fin2 = inicio1 < fin2 && inicio2 < fin1
 bloquea :: Reserva -> Bool
 bloquea (Reserva _ _ _ _ _ _ _ estado) = estado /= "Cancelada"
 
--- Entrada: lista reservas, fechas, habitacion. Salida: disponibilidad.
+-- Entrada: lista reservas, fechas, habitacion. Salida: disponibilidad. 
 estaDisponible :: [Reserva] -> Day -> Day -> Int -> Bool
 estaDisponible reservas entrada salida codigo = not (any ocupada reservas)
   where
